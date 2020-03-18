@@ -1,5 +1,6 @@
 # arbitrage-trading
 Arbitrage Monitoring &amp; Trading 
+This is based on [OrFeed](https://github.com/ProofSuite/OrFeed), and particularly the [basicArbExample](https://github.com/ProofSuite/OrFeed/tree/master/nodeJSAppExamples/basicArbExample%20). For now, this repo does not have Smart Contract yet, but it is actually executing on Ethereum main net, so Smart Contract address and ABI is hard coded. I will make update on this later.
 
 ## Checking out repo and install packages
 ```
