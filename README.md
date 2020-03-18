@@ -27,7 +27,7 @@ This is not neccessary for monitoring, but only need for actual trading.
   npm start
 ```
 
-## Expecting output
+## Expecting monitoring output
 ```
 Getting price.
  SAI Buy price(Uniswap):  105525848942701202538
